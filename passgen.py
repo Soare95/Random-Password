@@ -37,4 +37,4 @@ def PasswordCopy():
 Button(root, text = 'COPY', command=PasswordCopy).place(x=31,y=180)
 
 
-root.mainloop()
+root.mainloop(
